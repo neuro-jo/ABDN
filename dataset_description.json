@@ -1,0 +1,15 @@
+{
+    "Name": "NEMO: A Database for Emotion Analysis Using Functional Near-infrared Spectroscopy",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC-BY-NC",
+    "Authors": [
+        "Michiel Spap\u00e9",
+        "Kalle M\u00e4kel\u00e4",
+        "Tuukka Ruotsalo"
+    ],
+    "HowToAcknowledge": "Please cite the original publication.",
+    "ReferencesAndLinks": [
+        "NEMO: A Database for Emotion Analysis Using Functional Near-infrared Spectroscopy"
+    ]
+}
